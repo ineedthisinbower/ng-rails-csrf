@@ -1,0 +1,24 @@
+{
+  "name": "ng-rails-csrf",
+  "version": "0.1.0",
+  "authors": [
+    "Chris Dawson <xrdawson@gmail.com>"
+  ],
+  "description": "Adds Rails CSRF token to any HTTP request made from angular.js",
+  "main": "ng-rails-csrf.js",
+  "keywords": [
+    "angular",
+    "rails",
+    "csrf"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/xrd/ng-rails-csrf",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
+
